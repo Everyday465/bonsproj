@@ -25,10 +25,12 @@ def myfunction():
   print("Hello, World!")
 
 while True:
-x = input("what")
-food = {"bean":8,"choco":9,"wheat":20}
-print(food[1])
+    x = input("what")
+    food = {"bean":8,"choco":9,"wheat":20}
+    print(food[1])
 
+
+# THIS A TEST BY OUCHUEYANG
 
 
 
